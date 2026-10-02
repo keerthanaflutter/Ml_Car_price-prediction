@@ -1,0 +1,401 @@
+brand,model,year,km_driven,fuel_type,transmission,engine_cc,mileage_kmpl,owners,seller_type,selling_price
+Toyota,Fortuner,2020,96700,Diesel,Automatic,2755,12.8,1,Individual,1951000
+Mahindra,XUV500,2023,32900,Diesel,Manual,2179,15.1,1,Dealer,1230000
+Toyota,Corolla Altis,2024,26700,Diesel,Manual,1364,21.5,2,Dealer,1463000
+Maruti Suzuki,Alto 800,2017,86000,Petrol,Manual,796,21.4,4,Dealer,82000
+Tata,Tiago,2017,77000,CNG,Automatic,1199,25.2,2,Dealer,180000
+Kia,Seltos,2022,59800,Diesel,Automatic,1493,19.8,1,Individual,1050000
+Toyota,Innova Crysta,2016,114400,Diesel,Manual,2393,13.6,1,Individual,546000
+Toyota,Innova Crysta,2021,70300,Diesel,Manual,2393,13.5,1,Individual,1052000
+Maruti Suzuki,Swift,2024,11000,Petrol,Manual,1197,22.2,1,Individual,597000
+Kia,Seltos,2024,22400,Petrol,Manual,1497,17.2,1,Dealer,1128000
+Maruti Suzuki,Dzire,2023,39100,Diesel,Manual,1248,26.2,1,Individual,583000
+Ford,EcoSport,2018,107400,Diesel,Manual,1498,21.1,2,Dealer,266000
+BMW,3 Series,2019,63100,Petrol,Automatic,,13.9,3,Individual,1835000
+Honda,City,2021,87700,Diesel,Automatic,1498,23.8,2,Individual,660000
+Hyundai,Verna,2022,23400,Diesel,Manual,1493,24.4,2,Individual,754000
+Hyundai,i20,2012,118800,Petrol,Manual,1197,18.5,3,Individual,125000
+Honda,City,2017,164200,Diesel,Manual,1498,25.0,2,Individual,296000
+Maruti Suzuki,Alto 800,2016,101700,Petrol,Manual,796,22.3,3,Individual,80000
+Hyundai,i20,2015,98700,Diesel,Automatic,1396,21.1,3,Dealer,219000
+Toyota,Innova Crysta,2021,48900,Diesel,Manual,2393,13.8,1,Individual,1013000
+Maruti Suzuki,Alto 800,2016,127300,CNG,Manual,796,32.2,3,Individual,78000
+Honda,City,2023,17900,Diesel,Automatic,1498,23.0,1,Dealer,1082000
+Toyota,Corolla Altis,2010,178100,Petrol,Automatic,1798,13.6,2,Dealer,204000
+Mahindra,XUV500,2016,144700,Diesel,Automatic,2179,14.4,2,Individual,463000
+Maruti Suzuki,Alto 800,2018,63700,CNG,Manual,796,32.2,,Individual,104000
+Ford,EcoSport,2018,48100,Petrol,Manual,1499,16.0,2,Individual,291000
+Maruti Suzuki,Swift,2016,147600,Diesel,Manual,,25.8,3,Individual,141000
+Maruti Suzuki,Alto 800,2017,62500,CNG,Manual,796,31.5,3,Dealer,96000
+Maruti Suzuki,Swift,2018,63000,Diesel,Manual,1248,24.8,3,Individual,148000
+Hyundai,Creta,2020,73000,Petrol,Manual,1497,17.1,1,Dealer,688000
+Maruti Suzuki,Dzire,2022,20600,Petrol,Manual,1197,,1,Dealer,474000
+Maruti Suzuki,Baleno,2016,92900,Petrol,Manual,1197,21.8,3,Individual,198000
+Tata,Tiago,2019,37000,Petrol,Manual,1199,19.8,2,Dealer,255000
+Ford,EcoSport,2014,105000,Diesel,Manual,1498,21.3,4,Individual,149000
+Mahindra,Scorpio,2014,147800,Diesel,Manual,2179,15.7,2,Dealer,291000
+Hyundai,Verna,2024,25200,,Manual,1493,24.6,1,Individual,998000
+Mahindra,Scorpio,2018,155200,Diesel,Manual,2179,15.7,1,Individual,449000
+Maruti Suzuki,Swift,2011,230000,Petrol,Automatic,1197,20.1,3,Individual,81000
+Maruti Suzuki,Baleno,2023,14300,Petrol,Manual,1197,21.2,1,Dealer,708000
+Hyundai,Creta,2022,72500,Diesel,Manual,1493,21.0,2,Dealer,735000
+Honda,Amaze,2023,17300,Petrol,Manual,1199,18.8,1,Dealer,575000
+Honda,City,2021,48000,Petrol,Manual,1497,18.2,2,Individual,655000
+Maruti Suzuki,Dzire,2015,165600,Petrol,Manual,1197,22.4,3,Individual,134000
+Maruti Suzuki,Alto 800,2021,52100,Petrol,Manual,796,22.0,1,Dealer,200000
+Mahindra,Scorpio,2014,211000,Diesel,Manual,2179,15.6,4,Dealer,220000
+Volkswagen,Polo,2018,84000,Diesel,Manual,1498,19.6,1,Individual,216000
+Toyota,Corolla Altis,2022,28300,Petrol,Manual,1798,14.2,2,Individual,1108000
+Tata,Tiago,2023,21700,Petrol,Manual,1199,20.1,1,Individual,362000
+Tata,Nexon,2017,171700,Diesel,Manual,1497,21.0,3,Individual,270000
+Toyota,Corolla Altis,2023,13500,Petrol,Manual,,13.9,1,Individual,1232000
+Maruti Suzuki,Baleno,2015,153900,Petrol,Automatic,1197,19.9,4,Individual,174000
+Mahindra,XUV500,2012,218600,Diesel,Manual,2179,15.0,3,Individual,168000
+Mahindra,Scorpio,2023,28300,Diesel,Manual,2179,,2,Individual,928000
+Tata,Nexon,2024,18100,Diesel,Manual,1497,21.7,1,Individual,759000
+Toyota,Corolla Altis,2015,73600,Petrol,Manual,1798,14.2,2,Individual,326000
+Hyundai,i20,2013,192800,Petrol,Manual,1197,18.6,2,Individual,111000
+Maruti Suzuki,Alto 800,2013,105500,CNG,Manual,796,32.2,2,Individual,51000
+Honda,Amaze,2022,45600,Diesel,Manual,1498,24.4,1,Dealer,444000
+Mahindra,Scorpio,2021,32800,Diesel,Manual,2179,15.6,3,Dealer,625000
+Toyota,Fortuner,2015,163900,Diesel,Manual,2755,14.6,3,Dealer,676000
+Hyundai,Grand i10,2015,60200,Petrol,Manual,1197,18.7,3,Dealer,139000
+Honda,Amaze,2022,42700,Petrol,Manual,1199,18.3,2,Dealer,406000
+Honda,Amaze,2013,160100,Diesel,Manual,1498,24.4,2,Dealer,108000
+Maruti Suzuki,Alto 800,2010,105600,Petrol,Manual,796,21.6,2,Individual,36000
+Mahindra,XUV500,2012,123200,Diesel,Manual,2179,15.5,4,Individual,203000
+Maruti Suzuki,Alto 800,2019,75400,Petrol,Manual,796,22.5,2,Individual,112000
+Hyundai,Grand i10,2013,176700,Petrol,Manual,,,4,Dealer,86000
+Tata,Nexon,2022,33700,Petrol,Manual,1199,17.0,2,Dealer,676000
+Hyundai,Grand i10,2018,114000,CNG,Manual,1197,26.4,4,Dealer,157000
+Maruti Suzuki,Dzire,2021,56400,Petrol,Automatic,1197,20.5,1,Individual,414000
+Maruti Suzuki,Swift,2022,22000,Petrol,Manual,1197,22.5,1,Individual,503000
+Maruti Suzuki,Ertiga,2021,52600,CNG,Manual,1462,25.8,2,Individual,511000
+Toyota,Fortuner,2013,148800,Diesel,Manual,2755,14.4,3,Individual,426000
+Tata,Nexon,2020,72600,Diesel,Manual,1497,21.0,2,Dealer,507000
+Maruti Suzuki,Ertiga,2014,65400,Petrol,Manual,1462,18.7,2,Individual,174000
+Honda,Amaze,2019,41400,Petrol,Manual,1199,19.0,3,Individual,331000
+Maruti Suzuki,Alto 800,2017,77000,Petrol,Manual,796,22.4,2,Dealer,97000
+Hyundai,Creta,2022,38700,,Automatic,1493,19.4,1,Dealer,975000
+Volkswagen,Polo,2018,118100,Diesel,Manual,1498,20.2,3,Individual,238000
+Toyota,Corolla Altis,2021,39900,Diesel,Manual,1364,21.7,2,Individual,862000
+Maruti Suzuki,Ertiga,2022,49800,Diesel,Manual,1248,25.0,1,Dealer,698000
+Maruti Suzuki,Swift,2015,72500,Petrol,Manual,1197,21.6,2,Dealer,133000
+Volkswagen,Polo,2024,10300,Petrol,Manual,999,18.1,1,Individual,663000
+Hyundai,i20,2018,99400,Petrol,Automatic,1197,16.8,2,Individual,237000
+Maruti Suzuki,Dzire,2017,104300,CNG,Manual,1197,30.7,1,Dealer,220000
+Maruti Suzuki,Baleno,2019,41800,Petrol,Manual,1197,21.1,1,Individual,311000
+Hyundai,Grand i10,2022,27300,CNG,Manual,1197,26.7,2,Individual,378000
+Tata,Nexon,2019,42400,Petrol,Manual,1199,17.4,3,Individual,372000
+BMW,3 Series,2020,35200,Petrol,Automatic,1998,,2,Dealer,2193000
+Maruti Suzuki,Alto 800,2023,29300,Petrol,Manual,796,21.9,1,Individual,241000
+Tata,Nexon,2022,72600,Diesel,Automatic,1497,,2,Individual,724000
+Maruti Suzuki,Ertiga,2017,130600,Petrol,Manual,1462,19.3,3,Dealer,215000
+Hyundai,Creta,2018,73200,Petrol,Automatic,1497,15.7,1,Individual,555000
+Mahindra,XUV500,2017,83600,Diesel,Manual,2179,14.9,2,Dealer,484000
+Maruti Suzuki,Baleno,2017,52400,Petrol,Manual,1197,20.8,2,Individual,248000
+Toyota,Corolla Altis,2013,143400,Diesel,Manual,1364,20.9,2,Individual,232000
+Maruti Suzuki,Baleno,2022,25200,Petrol,Manual,1197,22.0,1,Individual,494000
+Maruti Suzuki,Alto 800,2022,40600,Petrol,Manual,796,21.3,2,Dealer,200000
+Honda,City,2012,126800,Diesel,Manual,1498,25.7,1,Dealer,174000
+Maruti Suzuki,Baleno,2015,134300,Petrol,Automatic,,19.7,4,Dealer,155000
+Maruti Suzuki,Baleno,2024,9500,Petrol,Manual,1197,21.9,1,Dealer,645000
+Hyundai,i20,2012,185600,Petrol,Manual,1197,18.7,3,Dealer,115000
+Mahindra,XUV500,2011,227100,Diesel,Manual,2179,14.7,1,Individual,186000
+Tata,Tiago,2023,34100,CNG,Manual,1199,27.1,1,Dealer,472000
+Maruti Suzuki,Ertiga,2023,23500,CNG,Manual,1462,26.0,1,Dealer,675000
+Tata,Nexon,2021,85100,Diesel,Manual,1497,22.1,1,Dealer,557000
+Maruti Suzuki,Swift,2010,246300,Petrol,Manual,1197,22.0,1,Individual,78000
+Volkswagen,Polo,2024,9500,Petrol,Automatic,999,17.1,1,Individual,782000
+Toyota,Corolla Altis,2013,174900,Petrol,Automatic,1798,13.3,3,Individual,266000
+Hyundai,Creta,2021,25300,Petrol,Manual,1497,,1,Individual,786000
+Hyundai,Grand i10,2020,37900,CNG,Manual,1197,,3,Individual,298000
+Hyundai,Grand i10,2021,39000,CNG,Manual,1197,26.1,2,Individual,335000
+Hyundai,i20,2011,147800,Diesel,Manual,1396,23.1,2,Individual,96000
+Mahindra,XUV500,2022,71300,Diesel,Automatic,2179,13.8,3,Individual,924000
+Hyundai,Grand i10,2019,41600,Petrol,Manual,1197,18.6,2,Dealer,270000
+Maruti Suzuki,Baleno,2016,108400,Petrol,Manual,1197,21.1,2,Individual,186000
+Honda,Amaze,2023,25000,Diesel,Manual,1498,24.5,1,Individual,558000
+Ford,EcoSport,2021,35300,Diesel,Automatic,1498,20.7,2,Dealer,549000
+Maruti Suzuki,Dzire,2013,74300,Petrol,Manual,1197,22.8,3,Individual,100000
+Maruti Suzuki,Dzire,2018,89400,Petrol,Manual,1197,22.5,,Dealer,234000
+Tata,Nexon,2019,134400,Diesel,Manual,1497,21.1,2,Individual,349000
+Tata,Nexon,2021,85400,Diesel,Manual,1497,22.0,1,Dealer,611000
+Tata,Tiago,2019,99300,CNG,Manual,1199,26.7,,Individual,202000
+Honda,Amaze,2013,137900,Petrol,Automatic,1199,17.6,2,Individual,140000
+Hyundai,Grand i10,2019,32900,CNG,Manual,1197,26.2,,Individual,251000
+Mahindra,Scorpio,2022,67500,Diesel,Manual,2179,15.6,1,Dealer,905000
+Maruti Suzuki,Dzire,2021,37100,Petrol,Manual,1197,23.1,3,Individual,312000
+Mahindra,Scorpio,2017,67000,Diesel,Manual,2179,15.1,4,Individual,364000
+Hyundai,Grand i10,2020,65400,CNG,Manual,1197,25.8,1,Dealer,336000
+Honda,City,2017,113500,Petrol,Manual,1497,18.2,2,Individual,308000
+Maruti Suzuki,Alto 800,2016,87600,Petrol,Manual,796,22.1,4,Individual,75000
+Tata,Nexon,2020,99800,Diesel,Manual,1497,21.9,2,Dealer,495000
+Kia,Seltos,2022,37000,Petrol,Automatic,1497,16.0,2,Individual,761000
+Maruti Suzuki,Swift,2023,25600,Petrol,Automatic,1197,20.3,1,Dealer,577000
+Volkswagen,Polo,2022,30800,Diesel,Manual,1498,19.6,1,Individual,482000
+Volkswagen,Polo,2015,82700,Petrol,Manual,999,17.7,3,Dealer,124000
+Hyundai,Grand i10,2023,37000,CNG,Manual,1197,25.8,1,Dealer,406000
+Mahindra,Scorpio,2018,124100,Diesel,Manual,2179,15.6,4,Dealer,427000
+Hyundai,Verna,2021,50200,Petrol,Manual,1497,18.1,2,Individual,510000
+Hyundai,Grand i10,2022,52700,CNG,Automatic,1197,24.3,1,Individual,458000
+Tata,Nexon,2017,51000,Petrol,Manual,1199,17.6,1,Individual,286000
+Toyota,Innova Crysta,2022,34500,Diesel,Manual,2393,13.3,1,Individual,1230000
+Maruti Suzuki,Dzire,2017,93600,,Manual,1197,22.7,3,Dealer,176000
+Maruti Suzuki,Alto 800,2016,65900,Petrol,Manual,796,22.2,3,Individual,85000
+Tata,Nexon,2020,68200,Diesel,Manual,1497,21.0,2,Dealer,517000
+Hyundai,Grand i10,2022,50100,Petrol,Manual,1197,19.0,2,Dealer,435000
+Tata,Tiago,2023,16300,,Manual,1199,26.7,1,Individual,526000
+Hyundai,Grand i10,2022,27600,CNG,Manual,1197,26.5,2,Dealer,387000
+Tata,Tiago,2018,91700,CNG,Automatic,1199,24.2,3,Individual,160000
+Honda,Amaze,2014,103500,Petrol,Automatic,1199,17.1,4,Individual,123000
+Hyundai,i20,2015,141500,Diesel,Manual,1396,22.3,4,Individual,168000
+Hyundai,Creta,2018,38900,Petrol,Manual,1497,16.4,1,Dealer,551000
+Ford,EcoSport,2020,44000,Diesel,Manual,1498,21.2,1,Individual,495000
+Honda,Amaze,2014,97800,Petrol,Manual,1199,18.5,4,Individual,126000
+Kia,Seltos,2021,29100,,Manual,1497,17.3,3,Individual,534000
+Tata,Tiago,2017,77100,CNG,Manual,1199,26.8,3,Dealer,150000
+Mahindra,XUV500,2013,123000,Diesel,Manual,2179,15.3,3,Individual,220000
+Maruti Suzuki,Swift,2016,72000,Petrol,Manual,1197,22.3,,Individual,193000
+Tata,Tiago,2023,20600,CNG,Manual,1199,26.2,1,Dealer,398000
+Honda,Amaze,2017,106400,Diesel,Manual,1498,24.1,4,Individual,179000
+Volkswagen,Polo,2011,251300,Diesel,Manual,1498,19.7,4,Individual,66000
+Hyundai,Grand i10,2024,13000,Petrol,Automatic,1197,17.9,2,Individual,580000
+Hyundai,Creta,2016,76100,Diesel,Automatic,1493,19.9,2,Individual,440000
+Tata,Nexon,2018,83100,Petrol,Automatic,1199,16.0,1,Individual,362000
+Maruti Suzuki,Swift,2019,85100,Diesel,Automatic,1248,23.4,2,Individual,261000
+Hyundai,Creta,2021,71500,Petrol,Manual,1497,16.5,1,Individual,863000
+Maruti Suzuki,Baleno,2021,70000,Petrol,Manual,1197,21.3,3,Dealer,370000
+Hyundai,Verna,2010,90400,Petrol,Manual,1497,17.5,4,Dealer,124000
+Mahindra,Scorpio,2021,93100,Diesel,Manual,2179,15.7,2,Dealer,828000
+Toyota,Innova Crysta,2019,75200,Diesel,Manual,2393,13.3,2,Dealer,784000
+Kia,Seltos,2022,72300,Diesel,Automatic,1493,19.5,1,Individual,929000
+Hyundai,Verna,2019,81600,Petrol,Manual,1497,17.7,1,Individual,554000
+Honda,City,2011,110200,Petrol,Automatic,1497,16.4,2,Individual,176000
+Mahindra,XUV500,2015,83700,Diesel,Manual,2179,14.8,3,Individual,389000
+Kia,Seltos,2022,18400,Petrol,Manual,1497,17.2,1,Individual,906000
+Ford,EcoSport,2022,49900,Petrol,Manual,1499,,1,Individual,607000
+Kia,Seltos,2020,37400,Petrol,Manual,1497,17.0,3,Individual,589000
+Maruti Suzuki,Ertiga,2014,57800,Petrol,Manual,1462,18.8,2,Dealer,232000
+Maruti Suzuki,Alto 800,2014,170900,Petrol,Manual,796,22.3,4,Individual,52000
+Maruti Suzuki,Dzire,2019,59600,Petrol,Manual,1197,22.3,1,Individual,328000
+Hyundai,Verna,2013,114300,Petrol,Manual,1497,17.7,2,Individual,214000
+Tata,Nexon,2020,78800,Petrol,Manual,1199,17.1,3,Individual,401000
+Maruti Suzuki,Swift,2015,71200,Diesel,Manual,1248,25.7,3,Individual,153000
+Maruti Suzuki,Baleno,2018,59500,Petrol,Manual,1197,21.2,1,Individual,274000
+Honda,City,2020,55100,Diesel,Manual,1498,25.2,3,Individual,516000
+Hyundai,Creta,2020,76400,Diesel,Automatic,1493,20.2,1,Dealer,689000
+Maruti Suzuki,Alto 800,2016,68500,Petrol,Manual,796,21.7,1,Individual,92000
+Hyundai,i20,2010,231100,Petrol,Manual,1197,18.2,2,Dealer,81000
+Mahindra,Scorpio,2016,153400,Diesel,Manual,2179,15.4,1,Dealer,444000
+Hyundai,Verna,2020,101800,Diesel,Automatic,1493,23.7,1,Dealer,670000
+Maruti Suzuki,Alto 800,2014,139600,Petrol,Manual,796,21.6,1,Individual,60000
+Maruti Suzuki,Dzire,2017,79700,Diesel,Manual,1248,26.7,2,Dealer,260000
+Honda,Amaze,2015,137700,Diesel,Manual,1498,24.4,3,Dealer,152000
+Maruti Suzuki,Ertiga,2012,84400,CNG,Automatic,1462,24.3,3,Dealer,160000
+BMW,3 Series,2016,120100,Diesel,Automatic,1995,19.5,2,Dealer,1162000
+Maruti Suzuki,Baleno,2023,30700,Petrol,Manual,1197,21.3,1,Individual,661000
+Maruti Suzuki,Swift,2023,19900,Diesel,Manual,1248,24.5,4,Dealer,464000
+Maruti Suzuki,Alto 800,2024,7600,Petrol,Manual,796,21.4,1,Dealer,242000
+Maruti Suzuki,Swift,2023,31400,Petrol,Manual,1197,22.5,2,Dealer,477000
+Toyota,Fortuner,2011,280900,Diesel,Manual,2755,14.3,2,Individual,318000
+Toyota,Corolla Altis,2020,83100,Petrol,Manual,1798,14.2,1,Dealer,706000
+Maruti Suzuki,Baleno,2018,75200,Petrol,Manual,1197,21.8,1,Dealer,349000
+Volkswagen,Polo,2022,23000,Petrol,Manual,,18.0,1,Individual,490000
+Maruti Suzuki,Ertiga,2015,72700,CNG,Manual,1462,25.9,4,Dealer,209000
+Hyundai,i20,2018,115400,Petrol,Manual,1197,18.9,2,Individual,262000
+BMW,3 Series,2020,112600,Diesel,Automatic,1995,18.6,1,Individual,2341000
+Hyundai,Creta,2022,61700,Diesel,Automatic,1493,20.3,2,Dealer,947000
+Tata,Nexon,2019,85200,Diesel,Manual,1497,21.9,1,Individual,476000
+Ford,EcoSport,2017,112600,Petrol,Manual,1499,15.9,2,Individual,232000
+Mercedes-Benz,C-Class,2024,8100,Petrol,Automatic,1991,12.4,2,Dealer,4865000
+Tata,Nexon,2023,27200,Petrol,Automatic,1199,16.0,2,Individual,701000
+Ford,EcoSport,2017,80800,Petrol,Manual,1499,15.7,1,Dealer,351000
+Mahindra,Scorpio,2019,95000,Diesel,Manual,2179,15.6,1,Dealer,699000
+Toyota,Innova Crysta,2022,50600,Diesel,Manual,2393,13.9,1,Individual,1193000
+BMW,3 Series,2012,103900,Petrol,Automatic,1998,14.0,4,Individual,549000
+Toyota,Fortuner,2017,128400,Diesel,Manual,2755,14.6,4,Individual,883000
+Mahindra,Scorpio,2014,198300,Diesel,Manual,2179,15.0,,Individual,239000
+Honda,Amaze,2023,19900,Petrol,Manual,1199,18.7,1,Dealer,571000
+Ford,EcoSport,2016,95700,Diesel,Manual,1498,21.7,3,Individual,207000
+Maruti Suzuki,Swift,2020,95800,Diesel,Manual,1248,25.6,2,Dealer,384000
+Maruti Suzuki,Dzire,2014,158700,Petrol,Manual,1197,22.4,4,Dealer,141000
+Maruti Suzuki,Dzire,2021,25600,Petrol,Manual,1197,22.9,2,Individual,391000
+Ford,EcoSport,2022,48200,Petrol,Manual,1499,16.0,1,Individual,592000
+Mahindra,XUV500,2016,104100,Diesel,Manual,2179,14.8,1,Dealer,439000
+Volkswagen,Polo,2010,166900,Diesel,Manual,1498,19.6,4,Individual,60000
+Maruti Suzuki,Baleno,2024,23000,Petrol,Manual,1197,21.6,1,Individual,684000
+Hyundai,i20,2012,97300,Petrol,Manual,1197,18.5,3,Individual,102000
+Toyota,Innova Crysta,2019,118200,Diesel,Manual,2393,13.6,2,Individual,689000
+Maruti Suzuki,Dzire,2019,66600,Diesel,Manual,1248,27.4,1,Dealer,299000
+Honda,Amaze,2022,25500,Petrol,Manual,1199,19.1,2,Individual,429000
+Hyundai,i20,2013,87600,Petrol,Manual,1197,18.8,2,Individual,142000
+Maruti Suzuki,Alto 800,2022,43400,Petrol,Manual,796,21.6,1,Individual,243000
+Maruti Suzuki,Swift,2019,50300,Diesel,Automatic,1248,23.6,3,Individual,312000
+Tata,Tiago,2024,11900,CNG,Manual,1199,26.7,1,Dealer,473000
+Hyundai,i20,2022,25400,Petrol,Manual,1197,,1,Individual,517000
+Mercedes-Benz,C-Class,2015,136300,Petrol,Automatic,1991,12.5,3,Individual,1228000
+Honda,Amaze,2015,150000,Petrol,Manual,1199,18.8,1,Individual,161000
+Honda,City,2014,99900,Petrol,Manual,1497,18.2,4,Dealer,241000
+Kia,Seltos,2020,81000,Diesel,Manual,1493,20.8,2,Individual,548000
+Maruti Suzuki,Baleno,2020,29000,Petrol,Automatic,1197,20.2,1,Individual,507000
+Honda,Amaze,2023,26500,Petrol,Manual,1199,,1,Dealer,616000
+Hyundai,i20,2013,205600,,Manual,1396,22.5,3,Dealer,110000
+Tata,Nexon,2022,39700,Diesel,Manual,1497,22.0,1,Individual,665000
+Kia,Seltos,2022,59400,Diesel,Automatic,1493,19.4,3,Dealer,821000
+Maruti Suzuki,Dzire,2024,17100,Diesel,Manual,1248,26.4,1,Individual,802000
+Maruti Suzuki,Swift,2019,87800,Petrol,Manual,1197,21.7,1,Individual,323000
+Volkswagen,Polo,2012,195300,Petrol,Manual,999,18.6,4,Individual,88000
+Mahindra,Scorpio,2024,13600,Diesel,Manual,2179,15.2,1,Individual,1520000
+Maruti Suzuki,Swift,2012,182400,Petrol,Automatic,1197,21.0,3,Dealer,81000
+Kia,Seltos,2024,20100,Petrol,Manual,1497,17.2,1,Individual,1111000
+Hyundai,Verna,2015,156500,Petrol,Manual,1497,17.9,2,Individual,202000
+Hyundai,i20,2022,28900,Petrol,Automatic,1197,16.8,1,Individual,671000
+Mahindra,XUV500,2013,153500,Diesel,Manual,2179,15.1,3,Individual,239000
+Ford,EcoSport,2019,81200,Petrol,Manual,1499,15.5,4,Individual,325000
+Maruti Suzuki,Swift,2012,235200,Diesel,Automatic,1248,22.8,2,Individual,109000
+Kia,Seltos,2023,41300,Diesel,Manual,1493,21.1,1,Individual,1079000
+Tata,Nexon,2017,65400,Diesel,Manual,1497,21.5,2,Dealer,283000
+Tata,Nexon,2019,90200,Petrol,Automatic,1199,16.2,2,Individual,387000
+BMW,3 Series,2020,47800,Petrol,Automatic,1998,13.6,2,Individual,2518000
+Maruti Suzuki,Alto 800,2021,36900,CNG,Manual,796,30.7,1,Individual,175000
+Maruti Suzuki,Swift,2021,43400,Diesel,Manual,1248,25.9,1,Dealer,402000
+Tata,Tiago,2022,49100,CNG,Manual,1199,26.0,1,Individual,337000
+Volkswagen,Polo,2019,80700,Diesel,Automatic,1498,19.2,3,Individual,324000
+Kia,Seltos,2022,29000,Petrol,Manual,1497,16.4,1,Individual,849000
+Tata,Nexon,2019,82300,Petrol,Manual,1199,17.8,4,Individual,304000
+Maruti Suzuki,Ertiga,2017,66000,CNG,Automatic,1462,24.7,2,Dealer,267000
+Maruti Suzuki,Ertiga,2024,26100,Diesel,Manual,1248,25.2,1,Dealer,840000
+Maruti Suzuki,Alto 800,2020,50200,Petrol,Manual,796,21.4,2,Dealer,172000
+Kia,Seltos,2024,24400,Diesel,Manual,1493,21.3,1,Dealer,1332000
+Hyundai,Creta,2022,53400,Petrol,Manual,1497,16.7,1,Individual,753000
+Honda,Amaze,2016,64300,Diesel,Manual,1498,24.8,3,Dealer,208000
+Honda,Amaze,2015,157500,Diesel,Manual,1498,25.1,4,Individual,139000
+Hyundai,Verna,2014,87800,Petrol,Manual,1497,17.8,4,Individual,172000
+Maruti Suzuki,Ertiga,2015,82500,Petrol,Manual,1462,18.6,1,Individual,236000
+Toyota,Fortuner,2020,67900,Diesel,Manual,2755,14.5,3,Dealer,1353000
+Tata,Tiago,2016,96800,Petrol,Manual,1199,19.9,3,Individual,131000
+Kia,Seltos,2022,52900,Petrol,Manual,1497,16.5,2,Individual,779000
+Ford,EcoSport,2022,46100,Petrol,Manual,1499,15.9,1,Individual,581000
+Maruti Suzuki,Alto 800,2012,117600,Petrol,Manual,796,21.9,2,Individual,44000
+Tata,Tiago,2022,27100,CNG,Automatic,1199,25.0,3,Individual,360000
+Hyundai,Verna,2021,60700,Diesel,Automatic,1493,22.4,1,Individual,714000
+Hyundai,Grand i10,2017,118400,Petrol,Manual,1197,19.3,3,Dealer,188000
+Maruti Suzuki,Dzire,2014,232800,Diesel,Manual,1248,26.9,4,Individual,100000
+Tata,Nexon,2017,108800,Petrol,Manual,1199,17.0,4,Dealer,235000
+Volkswagen,Polo,2014,172900,Petrol,Automatic,999,17.1,4,Dealer,142000
+Honda,City,2012,88100,Diesel,Automatic,1498,23.4,3,Dealer,203000
+Ford,EcoSport,2024,23400,Petrol,Manual,1499,16.3,1,Dealer,1028000
+Toyota,Fortuner,2022,35900,Diesel,Manual,2755,14.0,1,Individual,1996000
+Toyota,Innova Crysta,2021,49400,Diesel,Automatic,2393,12.8,3,Individual,981000
+Toyota,Innova Crysta,2018,103700,Diesel,Manual,2393,14.0,4,Individual,541000
+Honda,City,2023,33800,Diesel,Automatic,1498,23.2,1,Individual,1058000
+Hyundai,Verna,2012,105800,Diesel,Automatic,1493,23.2,3,Individual,146000
+Mahindra,Scorpio,2020,41000,Diesel,Manual,2179,15.4,1,Individual,772000
+Maruti Suzuki,Baleno,2024,8400,Petrol,Manual,1197,22.0,1,Individual,660000
+BMW,3 Series,2015,81000,Petrol,Automatic,1998,14.1,2,Individual,1092000
+Maruti Suzuki,Alto 800,2012,157400,CNG,Manual,796,32.5,4,Dealer,46000
+Volkswagen,Polo,2017,63300,Petrol,Automatic,999,16.9,1,Dealer,291000
+Honda,City,2017,59200,Diesel,Manual,1498,25.1,2,Individual,312000
+Hyundai,Grand i10,2017,90800,CNG,Manual,1197,26.6,2,Dealer,209000
+Maruti Suzuki,Swift,2018,139300,Diesel,Manual,1248,24.8,1,Individual,233000
+BMW,3 Series,2016,61500,Petrol,Automatic,1998,13.8,4,Dealer,969000
+Ford,EcoSport,2024,22500,Petrol,Manual,1499,15.9,1,Dealer,889000
+Maruti Suzuki,Swift,2011,156700,Diesel,Manual,1248,25.4,2,Dealer,91000
+Tata,Nexon,2022,55900,Diesel,Manual,1497,21.8,2,Dealer,649000
+Honda,City,2013,158300,Diesel,Manual,1498,25.3,3,Individual,183000
+Ford,EcoSport,2021,71000,Petrol,Manual,1499,16.2,2,Individual,401000
+Honda,Amaze,2020,40200,Diesel,Manual,1498,25.3,3,Individual,340000
+Kia,Seltos,2021,39200,Petrol,Manual,1497,16.5,1,Individual,647000
+BMW,3 Series,2011,105600,Diesel,Automatic,1995,18.5,1,Individual,605000
+Hyundai,Grand i10,2015,80900,Petrol,Manual,1197,19.0,1,Individual,122000
+Maruti Suzuki,Baleno,2021,53600,Petrol,Manual,1197,21.9,1,Individual,414000
+Kia,Seltos,2021,65400,Diesel,Manual,1493,20.4,2,Individual,580000
+Ford,EcoSport,2021,83500,Diesel,Manual,1498,21.9,2,Individual,501000
+Ford,EcoSport,2014,64700,Petrol,Automatic,1499,14.4,,Individual,190000
+Toyota,Fortuner,2017,105000,Diesel,Manual,2755,14.3,4,Dealer,791000
+Maruti Suzuki,Swift,2017,103400,Diesel,Manual,1248,24.6,2,Dealer,195000
+Hyundai,Creta,2022,54700,Diesel,Manual,1493,21.3,1,Individual,819000
+Mahindra,XUV500,2019,83700,Diesel,Manual,2179,14.7,1,Individual,730000
+Toyota,Fortuner,2015,214200,Diesel,Manual,2755,14.2,2,Individual,674000
+Mahindra,Scorpio,2012,196200,Diesel,Manual,2179,15.7,4,Individual,161000
+Toyota,Innova Crysta,2023,18000,Petrol,Manual,2694,10.6,1,Individual,1636000
+Hyundai,Grand i10,2021,62200,Petrol,Manual,1197,19.0,1,Dealer,327000
+Maruti Suzuki,Ertiga,2023,33900,Diesel,Manual,1248,23.8,1,Individual,745000
+Hyundai,Grand i10,2022,19400,CNG,Manual,1197,26.5,1,Individual,402000
+Ford,EcoSport,2020,52800,Diesel,Manual,1498,21.1,1,Individual,398000
+Honda,Amaze,2015,193800,Diesel,Manual,1498,24.5,1,Individual,123000
+Tata,Tiago,2022,31500,CNG,Manual,1199,26.8,1,Individual,329000
+Tata,Nexon,2021,29500,Petrol,Manual,1199,17.3,1,Dealer,686000
+Maruti Suzuki,Baleno,2018,78800,Petrol,Manual,1197,21.5,4,Individual,258000
+Hyundai,i20,2013,92900,Diesel,Manual,1396,21.9,3,Individual,140000
+Tata,Tiago,2021,42900,Petrol,Manual,1199,19.8,1,Dealer,331000
+Hyundai,Verna,2018,53400,Diesel,Manual,1493,24.8,2,Individual,433000
+Tata,Nexon,2024,9400,Petrol,Manual,1199,17.3,1,Dealer,1173000
+Ford,EcoSport,2019,48400,Diesel,Manual,1498,22.2,3,Individual,352000
+Honda,Amaze,2014,124400,Petrol,Automatic,1199,,3,Individual,150000
+Volkswagen,Polo,2010,157000,Diesel,Manual,1498,20.4,3,Individual,85000
+Honda,Amaze,2016,63100,Diesel,Manual,1498,25.0,4,Individual,171000
+Volkswagen,Polo,2013,189200,Petrol,Manual,999,17.9,4,Individual,95000
+Hyundai,i20,2024,18000,Petrol,Manual,1197,19.0,1,Dealer,920000
+Volkswagen,Polo,2016,114700,Diesel,Manual,1498,20.3,2,Individual,190000
+Maruti Suzuki,Dzire,2016,56700,CNG,Manual,1197,31.6,3,Dealer,153000
+Kia,Seltos,2023,13600,Petrol,Manual,1497,17.3,2,Individual,886000
+Honda,City,2022,44200,Diesel,Automatic,1498,24.0,1,Individual,985000
+Hyundai,Grand i10,2024,14100,Petrol,Automatic,1197,17.2,1,Dealer,583000
+Tata,Tiago,2024,9700,Petrol,Manual,1199,19.8,1,Dealer,502000
+Hyundai,Grand i10,2014,163300,CNG,Automatic,1197,24.9,4,Individual,79000
+Tata,Nexon,2018,99900,Petrol,Manual,1199,17.8,3,Individual,319000
+Maruti Suzuki,Alto 800,2012,206000,Petrol,Manual,,21.5,1,Dealer,49000
+Hyundai,Verna,2020,70200,Petrol,Manual,1497,,2,Individual,526000
+Toyota,Innova Crysta,2018,60200,Petrol,Manual,2694,10.8,2,Individual,600000
+Hyundai,i20,2019,52400,Petrol,Manual,1197,19.1,4,Dealer,307000
+Maruti Suzuki,Dzire,2018,127000,Diesel,Manual,1248,26.5,1,Dealer,253000
+Maruti Suzuki,Swift,2019,83000,Diesel,Automatic,1248,23.6,2,Individual,314000
+Hyundai,Creta,2021,34500,Petrol,Manual,1497,17.0,2,Dealer,661000
+Hyundai,i20,2023,23600,Diesel,Automatic,1396,21.4,2,Dealer,595000
+Mercedes-Benz,C-Class,2022,65100,Diesel,Automatic,1950,15.7,1,Dealer,3038000
+Maruti Suzuki,Baleno,2019,49900,Petrol,Automatic,1197,19.4,2,Individual,313000
+Maruti Suzuki,Swift,2024,10500,Petrol,Manual,1197,22.2,1,Dealer,679000
+Mahindra,XUV500,2014,181300,Diesel,Manual,2179,15.4,2,Individual,339000
+Ford,EcoSport,2020,68900,Petrol,Manual,1499,16.3,1,Dealer,482000
+Ford,EcoSport,2022,63000,Diesel,Manual,1498,21.1,2,Individual,606000
+Ford,EcoSport,2014,154700,Petrol,Manual,1499,15.8,1,Individual,205000
+Ford,EcoSport,2021,32900,Petrol,Manual,1499,15.8,2,Dealer,546000
+Maruti Suzuki,Ertiga,2020,85600,Petrol,Manual,1462,18.4,3,Individual,472000
+Maruti Suzuki,Dzire,2012,143200,Petrol,Manual,1197,21.8,4,Individual,90000
+Toyota,Fortuner,2018,95900,Diesel,Manual,2755,14.0,1,Individual,1176000
+Maruti Suzuki,Dzire,2018,141000,Diesel,Manual,1248,27.1,3,Individual,231000
+Ford,EcoSport,2018,49300,Diesel,Manual,1498,21.7,1,Individual,373000
+Volkswagen,Polo,2020,48400,Petrol,Manual,999,18.4,2,Individual,340000
+Mahindra,Scorpio,2023,42400,Diesel,Manual,2179,,1,Dealer,1166000
+Mahindra,XUV500,2020,59800,Diesel,Manual,2179,15.1,2,Individual,792000
+Hyundai,Grand i10,2021,70800,CNG,Manual,,25.5,2,Dealer,339000
+Honda,City,2014,69100,Petrol,Manual,1497,18.0,1,Individual,273000
+Maruti Suzuki,Dzire,2017,58000,Petrol,Manual,1197,22.2,1,Individual,199000
+Mahindra,Scorpio,2015,88500,Diesel,Manual,2179,15.6,4,Dealer,305000
+Maruti Suzuki,Baleno,2016,84300,Petrol,Manual,1197,22.0,4,Individual,162000
+Toyota,Corolla Altis,2022,48100,Petrol,Automatic,1798,13.4,2,Individual,1074000
+Ford,EcoSport,2021,56600,Petrol,Automatic,1499,15.1,1,Individual,496000
+Honda,City,2013,162800,Petrol,Manual,1497,18.1,3,Individual,162000
+Kia,Seltos,2023,51600,Diesel,Manual,1493,21.4,1,Individual,930000
+Maruti Suzuki,Alto 800,2016,96000,CNG,Manual,796,30.8,4,Individual,75000
+Honda,City,2013,181200,Petrol,Automatic,1497,16.2,3,Individual,189000
+Volkswagen,Polo,2019,42400,Diesel,Manual,1498,20.5,3,Dealer,286000
+Maruti Suzuki,Alto 800,2020,66500,CNG,Manual,796,30.7,2,Individual,164000
+Ford,EcoSport,2013,168100,Petrol,Manual,1499,16.1,3,Individual,139000
+Tata,Tiago,2019,68800,CNG,Manual,1199,27.1,2,Individual,256000
+Maruti Suzuki,Dzire,2022,68900,Diesel,Manual,1248,25.8,1,Individual,469000
+Tata,Tiago,2024,20800,Petrol,Manual,1199,19.7,1,Individual,518000
+Hyundai,i20,2021,66800,Petrol,Manual,1197,,1,Dealer,496000
+Toyota,Innova Crysta,2018,137900,Diesel,Manual,2393,13.5,2,Individual,628000
+Toyota,Innova Crysta,2016,101500,Diesel,Manual,2393,13.9,1,Individual,519000
+Honda,City,2024,12000,Diesel,Manual,1498,25.8,1,Dealer,1243000
+Hyundai,i20,2018,92100,Diesel,Automatic,1396,21.4,2,Individual,265000
+Volkswagen,Polo,2020,94200,Diesel,Manual,1498,19.6,1,Individual,331000
+Maruti Suzuki,Ertiga,2018,63400,Diesel,Manual,1248,24.0,1,Individual,408000
+Maruti Suzuki,Baleno,2017,134800,Petrol,Automatic,1197,20.2,2,Individual,232000
+Honda,Amaze,2014,141700,Diesel,Automatic,1498,23.6,3,Dealer,146000
+Hyundai,Verna,2016,134200,Diesel,Manual,,24.6,2,Dealer,337000
+Maruti Suzuki,Ertiga,2021,34600,Diesel,Manual,1248,25.0,1,Dealer,476000
+Hyundai,Verna,2017,120100,Petrol,Automatic,1497,16.7,3,Dealer,330000
