@@ -10,15 +10,18 @@ The model is **Linear Regression** (Scikit-learn), trained on 400 example car sa
 used_car_price_predictor/
 ├── data/used_cars.csv          Dataset: 400 used-car sales
 ├── models/car_price_model.pkl  The trained model (created by train_model.py)
+├── site/                       Static copy of the website for Netlify (built by build_static_site.py)
 ├── src/
 │   ├── preprocessing.py        Load + inspect data, missing-value filling, one-hot encoding, train/test split
 │   ├── linear_regression.py    Builds the Pipeline (preprocessing + Linear Regression) and trains it
 │   ├── evaluation.py           MAE, MSE, RMSE, R² and the actual-vs-predicted table
 │   ├── train_model.py          Runs the whole ML workflow and saves the model
-│   └── app.py                  Flask web server: the page + POST /predict
+│   ├── app.py                  Flask web server: the page + POST /predict
+│   └── build_static_site.py    Builds site/ for Netlify
 ├── templates/index.html        The web page
 ├── static/style.css            Page styling
 ├── static/script.js            Sends the form to Flask and shows the price
+├── static/predict_local.js     Browser-side prediction, used only on the Netlify version
 └── requirements.txt            Python packages needed
 ```
 
@@ -70,6 +73,20 @@ Leave this terminal open; the website runs as long as this command runs. Press `
 Go to **http://127.0.0.1:5000** in your browser, fill in the car details and click **Predict Price**.
 
 > **Mac users:** if the page is blank or shows "403 Forbidden", the AirPlay Receiver is using port 5000. Either turn it off (System Settings → General → AirDrop & Handoff → AirPlay Receiver), or start Flask on another port with `PORT=5001 python src/app.py` and open http://127.0.0.1:5001.
+
+## Put the website online (Netlify)
+
+Netlify only hosts static files (HTML, CSS, JavaScript), so it cannot run Flask or scikit-learn. The static version predicts in the browser instead. A trained Linear Regression model is just a list of numbers (one weight per column plus an intercept), so `src/build_static_site.py` copies those numbers to `model.json`, and `static/predict_local.js` does the same sum in JavaScript. It gives exactly the same prices and error messages as Flask.
+
+1. Build the static site (run again after every retrain or page change):
+   ```bash
+   python src/build_static_site.py
+   ```
+   This creates the `site/` folder.
+2. Push to GitHub: `git add . && git commit -m "Update site" && git push`
+3. On Netlify: **Add new project → Import a Git repository → GitHub** → choose this repository. `netlify.toml` already tells Netlify to publish the `site/` folder, so just click **Deploy**.
+
+After that, every `git push` redeploys the site automatically. (Alternative without GitHub: drag the `site/` folder into Netlify's "Upload your project files" box.)
 
 ## How the prediction works
 

@@ -1,0 +1,4 @@
+# Netlify settings: publish the ready-made static site in site/ (built by: python src/build_static_site.py).
+# No build command is needed because site/ is already committed to GitHub.
+[build]
+  publish = "site"
